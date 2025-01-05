@@ -16,7 +16,7 @@ void contarParesImpares() {
                 impares++;
             }
         } else if (numero == 0) {
-            printf("El 0 no cuenta en el conteo.\n");
+            printf("El 0 no cuenta en el conteo de pares e impares\n");
         }
     } while (numero >= 0);
 
